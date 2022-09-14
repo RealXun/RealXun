@@ -21,11 +21,11 @@
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
 #### 📫 How to reach me:
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/christiandda/)  &nbsp; 
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="4.5%"/>](https://steamcommunity.com/id/christiandda/)  &nbsp; 
   [<img src="https://github.com/RealXun/RealXun/blob/main/Resources/discord.svg" width="3.5%"/>](https://discord.gg/christian#9459)  &nbsp; 
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/christiandda/)  &nbsp; 
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/christiandda/)  &nbsp; 
-  <a href="mailto:christian.d.d.a@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4.5%"/>](https://www.linkedin.com/in/christiandda/)  &nbsp; 
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4.5%"/>](https://www.instagram.com/christiandda/)  &nbsp; 
+  <a href="mailto:christian.d.d.a@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4.5%"/>
 
 
 #### 👨🏻‍💻 Languages and Tools:
