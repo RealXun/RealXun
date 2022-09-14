@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=RealXun.RealXun)
+[![GitHub RealXun](https://img.shields.io/github/followers/RealXun?label=follow&style=social)](https://github.com/RealXun)
+
 <!--
 **RealXun/RealXun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
