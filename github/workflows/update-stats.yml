@@ -3,14 +3,24 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Profile Readme Development Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: RealXun
+      - uses: RealXun/waka-readme-stats@V3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "False"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE : "True"
+          SHOW_TIMEZONE: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_OS: "False"
