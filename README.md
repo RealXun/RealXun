@@ -2,25 +2,35 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=RealXun.RealXun)
 [![GitHub RealXun](https://img.shields.io/github/followers/RealXun?label=follow&style=social)](https://github.com/RealXun)
 
-**languages and tools:**  
+<img src="https://github.com/RealXun/RealXun/blob/main/Resources/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on improving my life.
+- 🌱 I’m currently learning how to be a Data Scientist.
+- 👯 I’m looking to collaborate on Data Science and Data Analytics projects.
+- 💬 ask me about anything, i am happy to help.
+- 😄 Rocket League!!!
+
+#### 📫 How to reach me:
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/christiandda/)  &nbsp; 
+  [<img src="https://github.com/RealXun/RealXun/blob/main/Resources/discord.svg" width="3.5%"/>](https://discord.gg/christian#9459)  &nbsp; 
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/christiandda/)  &nbsp; 
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/christiandda/)  &nbsp; 
+  <a href="mailto:christian.d.d.a@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+
+#### 👨🏻‍💻 Languages and Tools:
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/bash.png"></code>
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/git.png"></code>
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/json.png"></code>
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/jupyter-notebook.png"></code>
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/linux.png"></code>
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/selenium-logo.png"></code>
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/scikit-learn.png"></code>
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/python.png"></code>
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/Rlogo.png"></code>
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/Tableau-Logo.png"></code>
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text.png"></code>
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/qlik-vector-logo.png"></code>
+  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/Logo-cuadrado-con-letra-Power-BI.png"></code>
+  
+ 
