@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on Data Science and Data Analytics projects.
 - 💬 ask me about anything, i am happy to help.
 - 😄 Rocket League!!!
+- ☕️ I’m coffee addict 😅😅😅
 
 #### 📫 How to reach me:
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/christiandda/)  &nbsp; 
@@ -33,24 +34,13 @@
   <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text.png"></code>
   <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/qlik-vector-logo.png"></code>
   <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/Logo-cuadrado-con-letra-Power-BI.png"></code>
-  
+ 
   📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RealXun&show_icons=true&theme=gotham" alt="RealXun" />
- 
-</br>
-</br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-  
-<!--START_SECTION:waka-->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-<!--END_SECTION:waka-->
+<code><p align="Center"> <img src="https://github-readme-stats.vercel.app/api?username=RealXun&show_icons=true&theme=gotham" alt="RealXun" /></code><code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealXun)](https://github.com/anuraghazra/github-readme-stats)<code>
+
+</details>
+<hr></hr>
+
+<p align="Center"><img src="https://github.com/RealXun/RealXun/blob/main/Resources/dino_rounded.gif?raw=true" href="https://github.com/RealXun" width="75%"/><br>
+</div>
