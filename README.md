@@ -8,12 +8,17 @@
 
 <img src="https://github.com/RealXun/RealXun/blob/main/Resources/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
+### <img src="https://github.com/RealXun/RealXun/blob/main/Resources/Developer.gif" width="45" /> About Me:
 - 🔭 I’m currently working on improving my life.
 - 🌱 I’m currently learning how to be a Data Scientist.
 - 👯 I’m looking to collaborate on Data Science and Data Analytics projects.
 - 💬 ask me about anything, i am happy to help.
 - 😄 Rocket League!!!
 - ☕️ I’m coffee addict 😅😅😅
+
+##### MOTTO
+
+> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
 #### 📫 How to reach me:
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/christiandda/)  &nbsp; 
@@ -37,11 +42,19 @@
   <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text.png"></code>
   <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/qlik-vector-logo.png"></code>
   <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/Logo-cuadrado-con-letra-Power-BI.png"></code>
- 
-  📈 my github stats
+
+#### 🖥️ My DevSetup
+<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
+  
+#### 📈 my github stats
 
 <code><p align="Center"> <img src="https://github-readme-stats.vercel.app/api?username=RealXun&show_icons=true&theme=gotham" alt="RealXun" /></code><code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealXun)](https://github.com/anuraghazra/github-readme-stats)<code>
 
+---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+  
 </details>
 <hr></hr>
 
