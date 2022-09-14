@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there!!👋 Take a look at my repositories and let's get in touch!
+
+![](https://github.com/RealXun/RealXun/blob/main/Resources/header_1.png)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=RealXun.RealXun)
 [![GitHub RealXun](https://img.shields.io/github/followers/RealXun?label=follow&style=social)](https://github.com/RealXun)
 [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/RealXun)
