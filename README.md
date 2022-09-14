@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=RealXun.RealXun)
 [![GitHub RealXun](https://img.shields.io/github/followers/RealXun?label=follow&style=social)](https://github.com/RealXun)
+[![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/RealXun)
 
 <img src="https://github.com/RealXun/RealXun/blob/main/Resources/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
@@ -33,4 +34,9 @@
   <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/qlik-vector-logo.png"></code>
   <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/Logo-cuadrado-con-letra-Power-BI.png"></code>
   
- 
+  📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RealXun&show_icons=true&theme=gotham" alt="RealXun" />
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
