@@ -29,26 +29,26 @@
 
 
 #### 👨🏻‍💻 Languages and Tools:
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/bash.png"></code>
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/git.png"></code>
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/json.png"></code>
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/jupyter-notebook.png"></code>
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/linux.png"></code>
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/selenium-logo.png"></code>
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/scikit-learn.png"></code>
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/python.png"></code>
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/Rlogo.png"></code>
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/Tableau-Logo.png"></code>
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text.png"></code>
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/qlik-vector-logo.png"></code>
-  <code><img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/Logo-cuadrado-con-letra-Power-BI.png"></code>
-
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/bash.png">
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/git.png"></code>
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/json.png">
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/jupyter-notebook.png">
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/linux.png">
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/selenium-logo.png">
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/scikit-learn.png">
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/python.png">
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/Rlogo.png">
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/Tableau-Logo.png">
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text.png">
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/qlik-vector-logo.png">
+  <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/Logo-cuadrado-con-letra-Power-BI.png">
+  
 #### 🖥️ My DevSetup
 <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
   
 #### 📈 my github stats
 
-<code><p align="Center"> <img src="https://github-readme-stats.vercel.app/api?username=RealXun&show_icons=true&theme=gotham" alt="RealXun" /></code><code>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealXun)](https://github.com/anuraghazra/github-readme-stats)<code>
+<img src="https://github-readme-stats.vercel.app/api?username=RealXun&show_icons=true&theme=gotham" alt="RealXun" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealXun)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
