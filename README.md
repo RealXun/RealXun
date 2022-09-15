@@ -48,7 +48,8 @@
   
 ### 📈 my github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=RealXun&show_icons=true&theme=gotham" alt="RealXun" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealXun)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RealXun&show_icons=true&locale=en&layout=compact" alt="RealXun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RealXun&show_icons=true&theme=gotham" alt="RealXun" /></p>
 
 ---
 
