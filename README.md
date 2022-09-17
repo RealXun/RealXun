@@ -12,9 +12,11 @@
 - 🔭 I’m currently working on improving my life.
 - 🌱 I’m currently learning how to be a Data Scientist.
 - 👯 I’m looking to collaborate on Data Science and Data Analytics projects.
-- 💬 ask me about anything, i am happy to help.
-- 😄 Rocket League!!!
-- ☕️ I’m coffee addict 😅😅😅
+- :astronaut: I’m looking for a company athat could give me the opportunity to have my first job as data scientist
+- 💬 Ask me about anything, I am happy to help.
+- :rice_ball:	:ramen: Korean and Japanese food lover (It kinda makes senses after 8 years living in Asia)
+- ☕️ I’m a coffee addict 😅😅😅
+- <img height="30" src="https://github.com/RealXun/RealXun/blob/main/Resources/RLBadgeLogo_Large.png"> Rocket League!!!
 
 #### MOTTO
 
