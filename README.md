@@ -31,8 +31,7 @@
 
 
 ### 👨🏻‍💻 Languages and Tools:
-  <img height="60" src="https://github.com/RealXun/RealXun/blob/main/Resources/bash.png">
-  <img height="60" src="https://github.com/RealXun/RealXun/blob/main/Resources/git.png"></code>
+  <img height="60" src="https://github.com/RealXun/RealXun/blob/main/Resources/bash.png"> <img height="60" src="https://github.com/RealXun/RealXun/blob/main/Resources/git.png"></code>
   <img height="60" src="https://github.com/RealXun/RealXun/blob/main/Resources/json.png">
   <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/jupyter-notebook.png">
   <img height="40" src="https://github.com/RealXun/RealXun/blob/main/Resources/linux.png">
