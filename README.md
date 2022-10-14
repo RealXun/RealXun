@@ -6,6 +6,8 @@
 [![GitHub RealXun](https://img.shields.io/github/followers/RealXun?label=follow&style=social)](https://github.com/RealXun)
 [![license: feel free to use my repos](https://img.shields.io/badge/license-feel%20free%20to%20use%20my%20repos-success)](https://github.com/RealXun)
 
+[![](https://www.codewars.com/users/RealXun/badges/large)]([https://www.codewars.com/users/_JDev_](https://www.codewars.com/users/RealXun))
+
 <img src="https://github.com/RealXun/RealXun/blob/main/Resources/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 ### <img src="https://github.com/RealXun/RealXun/blob/main/Resources/Developer.gif" width="45" /> About Me:
